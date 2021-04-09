@@ -1,0 +1,68 @@
+a{
+	font-family: Helvetica;
+	margin-left: 70px;
+	border-radius: 0;
+}
+
+.texto{
+	background-color: #D5DBDB;
+	margin: 30px 80px 0 80px;
+	border: 2px solid black;
+}
+
+h2{
+	font-size: 20px;
+	font-family: Helvetica, Arial, Candara, Times New Roman;
+	text-align: center;
+	color: white;
+}
+
+h3{
+	text-align: center;
+	font-family: Helvetica;
+}
+
+p{
+	font-family: Helvetica;
+}
+
+section{
+	background-color: #283747;
+}
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#header-nav{
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-brand p span{
+	vertical-align: middle;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color: #951c49;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+
+#nav-list a span{
+	font-size: 1.8em;
+}
+
+.navbar{
+	background-color: #283747;
+	border: 3px solid #D5DBDB;
+}
